@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/thrifthub/static/css/main.1b635797.css",
+    "main.js": "/thrifthub/static/js/main.7d004d96.js",
+    "static/js/453.d0a211b3.chunk.js": "/thrifthub/static/js/453.d0a211b3.chunk.js",
+    "static/media/classic-denim-jacket.png": "/thrifthub/static/media/classic-denim-jacket.75dcfd8ac94fa5fd2dfa.png",
+    "static/media/brown-floral-dress.png": "/thrifthub/static/media/brown-floral-dress.f410feae2bc87bee4067.png",
+    "static/media/acid-wash-jacket.jpg": "/thrifthub/static/media/acid-wash-jacket.c01099024dd541e0b735.jpg",
+    "static/media/tartan-heels.jpg": "/thrifthub/static/media/tartan-heels.b209635db3f5199ad9f1.jpg",
+    "static/media/flared-jeans.jpg": "/thrifthub/static/media/flared-jeans.43ae50e2455f3e6441f0.jpg",
+    "static/media/cable-knit-sweater.jpg": "/thrifthub/static/media/cable-knit-sweater.8fa642b245f029274839.jpg",
+    "static/media/pink-floral-dress.jpg": "/thrifthub/static/media/pink-floral-dress.4a0f05159e18dbaec911.jpg",
+    "static/media/pink-knit-sweater.jpg": "/thrifthub/static/media/pink-knit-sweater.189bd0120938402c752d.jpg",
+    "static/media/jordan-sneakers.jpg": "/thrifthub/static/media/jordan-sneakers.d22d1eb9f983fac51167.jpg",
+    "static/media/fuzzy-striped-sweater.jpg": "/thrifthub/static/media/fuzzy-striped-sweater.9a85e81d99df25f4faab.jpg",
+    "static/media/white-ruched-blouse.jpg": "/thrifthub/static/media/white-ruched-blouse.f146d10f08b534769b1e.jpg",
+    "static/media/large-sunglasses.jpg": "/thrifthub/static/media/large-sunglasses.8debb64413b04edbd3f6.jpg",
+    "static/media/guess-sweater.jpg": "/thrifthub/static/media/guess-sweater.ba6d96f6485afe631d77.jpg",
+    "static/media/buckle-bag.jpg": "/thrifthub/static/media/buckle-bag.97cc61bb783f17c86c8f.jpg",
+    "static/media/brown-platform-heels.jpg": "/thrifthub/static/media/brown-platform-heels.5272d62a1e7cb849ae38.jpg",
+    "static/media/juicy-couture-tee.jpg": "/thrifthub/static/media/juicy-couture-tee.ca870a73fe38a4efba01.jpg",
+    "static/media/denim-skirt-alt.jpg": "/thrifthub/static/media/denim-skirt-alt.ef0e41624bf848efaa19.jpg",
+    "static/media/denim-skirt.jpg": "/thrifthub/static/media/denim-skirt.ef0e41624bf848efaa19.jpg",
+    "index.html": "/thrifthub/index.html",
+    "main.1b635797.css.map": "/thrifthub/static/css/main.1b635797.css.map",
+    "main.7d004d96.js.map": "/thrifthub/static/js/main.7d004d96.js.map",
+    "453.d0a211b3.chunk.js.map": "/thrifthub/static/js/453.d0a211b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b635797.css",
+    "static/js/main.7d004d96.js"
+  ]
+}
